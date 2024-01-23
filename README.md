@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Zhangjq personal page.</h1>
 <h3 align="center">A passionate frontend developer from China ShenZhen</h3>
 
-- 🔭 I’m currently working on **Some hardware, underlying operating systems, and technical research of CS**
+- 🔭 I’m currently working on **Motion planning for mobile robots, and technical research of CS**
 
 - 💬 Ask me about **C++ C python and git**
 
